@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b842c5d9-2c7d-4e55-8f6e-ec8b91ffe802" name="Changes" comment="Adicionando funcoesJS">
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="b842c5d9-2c7d-4e55-8f6e-ec8b91ffe802" name="Changes" comment="Finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697506939062</updated>
-      <workItem from="1697506940176" duration="3635000" />
+      <workItem from="1697506940176" duration="3963000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionando funcoesJS">
       <option name="closed" value="true" />
@@ -79,7 +77,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697510507207</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando funcoesJS">
+      <option name="closed" value="true" />
+      <created>1697510833920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697510833920</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finalizado">
+      <option name="closed" value="true" />
+      <created>1697510901940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697510901940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando funcoesJS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando funcoesJS" />
+    <MESSAGE value="Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado" />
   </component>
 </project>
