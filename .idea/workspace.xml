@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b842c5d9-2c7d-4e55-8f6e-ec8b91ffe802" name="Changes" comment="Finalizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,8 @@
       <updated>1697506939062</updated>
       <workItem from="1697506940176" duration="4299000" />
       <workItem from="1697512360309" duration="228000" />
-      <workItem from="1697512620400" duration="1043000" />
+      <workItem from="1697512620400" duration="1270000" />
+      <workItem from="1697547610404" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionando funcoesJS">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697511083633</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finalizado">
+      <option name="closed" value="true" />
+      <created>1697515427108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697515427108</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
