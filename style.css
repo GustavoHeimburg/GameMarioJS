@@ -29,6 +29,15 @@ width: 150px;
 .cloud{
     width: 550px;
     position: absolute;
+    animation: animacao-nuvens 20s infinite linear;
+}
+@keyframes animacao-nuvens {
+    from{
+right: -550px;
+    }
+    to{
+        right: 100%;
+    }
 }
 @keyframes animacao-pipe {
     from{
