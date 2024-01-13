@@ -18,6 +18,13 @@
     width: 80px;
    animation: animacao-pipe 1.6s infinite linear;
 }
+
+.games{
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #87CEEB;
+    background-color: gray;
+}
 .mario{
 width: 150px;
     position: absolute;
