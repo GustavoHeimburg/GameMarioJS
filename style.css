@@ -24,6 +24,8 @@
     font-size: 16px;
     color: #87CEEB;
     background-color: gray;
+    position: relative;
+    z-index: 9999;
 }
 .mario{
 width: 150px;
