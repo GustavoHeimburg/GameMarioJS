@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b842c5d9-2c7d-4e55-8f6e-ec8b91ffe802" name="Changes" comment="Add button reload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,8 @@
       <workItem from="1697547610404" duration="303000" />
       <workItem from="1705156485143" duration="549000" />
       <workItem from="1707015331505" duration="640000" />
-      <workItem from="1707090027838" duration="312000" />
+      <workItem from="1707090027838" duration="369000" />
+      <workItem from="1707341636967" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionando funcoesJS">
       <option name="closed" value="true" />
@@ -132,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705157005532</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add button reload">
+      <option name="closed" value="true" />
+      <created>1707090387492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707090387492</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
